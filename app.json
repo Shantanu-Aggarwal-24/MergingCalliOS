@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "mbMergecall",
+    "slug": "mbMergecall",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mbMergecall",
+  "android":{"useNextNotificationApi":true }
+}

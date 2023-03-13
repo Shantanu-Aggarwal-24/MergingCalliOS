@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "539813367066",
+      "project_id": "callingproject-87342",
+      "storage_bucket": "callingproject-87342.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:539813367066:android:17d9d15b2818192aa570a3",
+          "android_client_info": {
+            "package_name": "com.example.reactnativetwiliophone"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "539813367066-j90cd7jqvk58ts6vnavph781p2voupnn.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCJrj7qtcwi7ysAmJGFNodZ-TeNTwgaE_0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "539813367066-j90cd7jqvk58ts6vnavph781p2voupnn.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

@@ -1,0 +1,53 @@
+{
+  "name": "mbmergingcall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
+    "@react-native-firebase/app": "^14.3.1",
+    "@react-native-firebase/messaging": "^14.3.1",
+    "@react-navigation/bottom-tabs": "^6.1.0",
+    "@react-navigation/native": "^6.0.7",
+    "@react-navigation/stack": "^6.1.0",
+    "@twilio/voice-sdk": "^2.1.2",
+    "axios": "^1.2.3",
+    "dotenv": "^16.0.0",
+    "expo": "~44.0.2",
+    "expo-device": "^4.1.1",
+    "expo-notifications": "~0.14.0",
+    "expo-permissions": "~13.1.0",
+    "expo-server-sdk": "^3.6.0",
+    "expo-splash-screen": "~0.14.1",
+    "expo-status-bar": "~1.2.0",
+    "express": "^4.17.2",
+    "express-pino-logger": "^7.0.0",
+    "formik": "^2.1.4",
+    "mongoose": "^6.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-callkeep": "^4.3.1",
+    "react-native-gesture-handler": "^2.2.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.10.2",
+    "react-native-twilio-phone": "^1.8.1",
+    "react-native-voip-push-notification": "^3.3.0",
+    "react-native-web": "0.17.1",
+    "twilio-client": "^1.14.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "~0.64.12",
+    "twilio": "^3.73.1",
+    "typescript": "~4.3.5"
+  },
+  "private": true
+}
