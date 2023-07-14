@@ -42,7 +42,7 @@ export default function App() {
     };
   }, []);
 
-
+//Navigation authentication part
   return (
         <NavigationContainer>
         { isLogin ? <BottomNavigator /> :
